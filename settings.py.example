@@ -1,0 +1,4 @@
+# Settings files
+
+# If set to True, this removes the picked winner from the list
+POP_PICKED_WINNER = True
