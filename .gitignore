@@ -189,4 +189,6 @@ pyrightconfig.json
 # Custom Ignores
 guests.csv
 settings.py
+cleaned_guests.csv
+winners.csv
 
