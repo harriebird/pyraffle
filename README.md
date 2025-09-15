@@ -24,15 +24,6 @@ An example of a raffle result is shown below:
 
 ![Raffle result](img/raffle-result.png)
 
-## Note
-- Aside from the default fields (like `name`, `email`, and `checked_in_at`) in Luma, a custom
-question named `Status` should be added. Here are the details of the `Status` custom question:
-    - Question Type: Options
-    - Question: Status
-    - Options: Professional, Student
-    - Selection Type: Single
-    - Required: Yes
-
 ## License
 Code released under the [MIT License](LICENSE)
 
